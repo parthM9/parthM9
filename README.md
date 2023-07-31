@@ -10,9 +10,9 @@ I am particularly interested in web development along with AI. Building robust a
 
 Over the years, I have had the privilege of working on some exciting projects that have challenged me to grow as a developer. These experiences have provided me with hands-on knowledge in various technologies, such as:
 
-   I am most proficient in C#, Java and Python as those are the languages i have used for most of my projects. 
+   I am most proficient in C#, Java and Python as those are the languages i have used for most of my projects.
    I have also worked in various cross platform programs such as React and Flutter to create apps and website.
-   I am confident in API integration with any language.
+   I am confident in API integration with any language. Additionally, i am also confident in .net along with WPF C# development projects.
 
 ## 🌱 Current Learning Goals
 
