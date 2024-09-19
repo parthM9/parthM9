@@ -20,6 +20,6 @@ As a lifelong learner, I'm always seeking opportunities to enhance my skills and
 
 ## 📫 Let's Connect
 
-I'm always eager to connect with fellow developers, tech enthusiasts, and potential collaborators. You can reach me through my email professional email :  parth9a@gmail.com
+I'm always eager to connect with fellow developers, tech enthusiasts, and potential collaborators.
 
 Let's learn and grow together! 😄
